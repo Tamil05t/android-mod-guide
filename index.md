@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=tamil05t&color=blue&style=flat&label=Visitors)
+
 # Complete Guide: My Android Customization Journey (EvolutionX, Magisk, ReVanced, LSPosed)
 
 This guide documents my journey exploring Android customization after a short break. It includes the tools I explored (EvolutionX ROM, Magisk, ReVanced, LSPosed), steps I followed, issues I faced, and what actually worked — structured as a comprehensive reference you can publish on GitHub Pages or similar.
